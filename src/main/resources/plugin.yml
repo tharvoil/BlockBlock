@@ -1,0 +1,4 @@
+name: BlockBlock
+version: '${project.version}'
+main: com.embyrgaming.blockblock.BlockBlock
+api-version: 1.18
